@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Obvious Travel Tips</title>
+    <link>https://obvioustravel-tips.github.io/</link>
+    <description>Recent content on Obvious Travel Tips</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 15 May 2020 19:49:01 -0400</lastBuildDate>
+    
+	<atom:link href="https://obvioustravel-tips.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bridge Street Special</title>
+      <link>https://obvioustravel-tips.github.io/posts/first-post/</link>
+      <pubDate>Fri, 15 May 2020 19:49:01 -0400</pubDate>
+      
+      <guid>https://obvioustravel-tips.github.io/posts/first-post/</guid>
+      <description>Ok this is truly epic </description>
+    </item>
+    
+  </channel>
+</rss>
